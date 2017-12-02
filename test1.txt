@@ -8,3 +8,5 @@
 12/01/2017  06:28 PM                 0 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  857,733,476,352 bytes free
+this is first git
+this is awsome
