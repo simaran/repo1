@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9C91-4762
+
+ Directory of C:\Users\Nagaveena\Desktop\Myproject
+
+12/01/2017  06:28 PM    <DIR>          .
+12/01/2017  06:28 PM    <DIR>          ..
+12/01/2017  06:28 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  857,733,476,352 bytes free
